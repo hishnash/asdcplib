@@ -23,6 +23,9 @@ src/.libs
 #
 
 /.vscode
+/.swiftpm
+*.xcuserstate
+*.DS_Store
 
 ###
 # autotools output
@@ -77,3 +80,4 @@ src/pinkwave
 src/wavesplit
 src/phdr-unwrap
 src/phdr-wrap
+
