@@ -1,0 +1,11 @@
+//
+//  File.swift
+//  
+//
+//  Created by Matthaus Woolard on 07/04/2024.
+//
+
+module openssl [system] {
+    header "openssl/sha.h"
+    export *
+}
